@@ -21,6 +21,9 @@ images/
 logs/
 *.log
 
+# 评估文件夹（不发布）
+evaluation/
+
 # IDE 文件
 .vscode/
 .idea/
